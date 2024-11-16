@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently studying computer Science<br>DEV?
 
-
+![](https://komarev.com/ghpvc/?username=yunz-dev&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **yunz-dev/yunz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
