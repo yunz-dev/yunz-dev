@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 Learning & Exploring  
-- Programming languages: Golang, Rust, Java
+- Programming languages: Golang, Rust, Java/Kotlin
 - Backend frameworks: **Spring**, **FastAPI**  
 - Cloud certifications: AWS, Azure, and GCP  
 - Databases, operating systems, and distributed systems  
