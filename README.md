@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yunus!  
 
-🎓 *2nd Year Computer Science Student*  
+🎓 *Computer Science Student*  
 💻 Passionate about building scalable backends, machine learning models, and cloud-based applications.  
 
 ---
