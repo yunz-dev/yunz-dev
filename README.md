@@ -26,7 +26,7 @@
 - 🌐 [Portfolio](https://yunz.dev)
 - 📝 [Blog](https://medium.com/@ynssyd0210)
 
-I use ❄️ Nix ❄️ BTW <br><br>
+I use ❄️ [Nix](https://github.com/yunz-dev/nix-darwin) ❄️ BTW <br><br>
 ![](https://komarev.com/ghpvc/?username=yunz-dev&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
