@@ -6,15 +6,15 @@
 ---
 
 ### 🚀 What I'm Working On  
-- **Chinese Learning App**: A golang powered data driven application to supplement in langauge learning
-- **Wish List App**: A simple wish list application built using the MERN stack
+- **LiMao**: A golang powered data driven application to supplement in langauge learning
+- **YAWL**: A simple wish list application built using the MERN stack
 - **League Predictions**: Python machine learning project, predicting pro League of Legends match outcomes.
-- **AWS Cloud Practioner Certifcate**: Exam soon!!!
+- **GCP Cloud Digital Leader Certifcate**: Exam soon!!!
 
 ---
 
 ### 🌱 Learning & Exploring  
-- Programming languages: Golang, Rust, Java/Kotlin
+- Programming languages: Golang, Rust, Java/Kotlin, and one day Elixir
 - Backend frameworks: **Spring**, **FastAPI**  
 - Cloud certifications: AWS, Azure, and GCP  
 - Databases, operating systems, and distributed systems  
