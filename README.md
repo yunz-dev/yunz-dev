@@ -23,7 +23,7 @@
 
 ### 📫 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/yunzz/)  
-- 🌐 [Portfolio](https://yunz.dev)
+- 🌐 [Portfolio](https://yunz.dev) (work in progress)
 - 📝 [Blog](https://medium.com/@ynssyd0210)
 
 I use ❄️ [Nix](https://github.com/yunz-dev/nix-darwin) ❄️ BTW <br><br>
