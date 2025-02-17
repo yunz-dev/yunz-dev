@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/yunzz/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/YunzWasTaken/)  
 - 🌐 [Portfolio](https://yunz.dev) (work in progress)
 - 📝 [Blog](https://medium.com/@ynssyd0210)
 
