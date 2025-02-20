@@ -24,7 +24,7 @@
 ### 📫 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/YunzWasTaken/)  
 - 🌐 [Portfolio](https://yunz.dev) (work in progress)
-- 📝 [Blog](https://medium.com/@yunzblogz)
+- 📝 [Blog](https://yunz-dev.medium.com)
 
 I use ❄️ [Nix](https://github.com/yunz-dev/nix-darwin) ❄️ BTW <br><br>
 ![](https://komarev.com/ghpvc/?username=yunz-dev&style=for-the-badge)
