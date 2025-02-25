@@ -7,7 +7,7 @@
 
 ### 🚀 What I'm Working On  
 - **LiMao**: A golang powered data driven application to supplement in language learning
-- **YAWL**: A simple wish list application built using the MERN stack
+- **PriceByte**: A grocery store aggregator
 - **League Predictions**: Python machine learning project, predicting pro League of Legends match outcomes.
 - **GCP Cloud Digital Leader Certifcate**: Exam soon!!!
 
