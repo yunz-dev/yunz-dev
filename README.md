@@ -9,7 +9,7 @@
 - **LiMao**: A golang powered data driven application to supplement in language learning
 - **PriceByte**: A grocery store aggregator
 - **League Predictions**: Python machine learning project, predicting pro League of Legends match outcomes.
-- **GCP Cloud Digital Leader Certifcate**: Exam soon!!!
+- **GCP Cloud Digital Leader Certifcate**: 7/03/2025
 
 ---
 
