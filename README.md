@@ -7,9 +7,10 @@
 
 ### 🚀 What I'm Working On  
 - **LiMao**: A golang powered data driven application to supplement in language learning
-- **PriceByte**: A grocery store aggregator
+- **PriceByte**: A grocery store aggregator powered by spring
 - **League Predictions**: Python machine learning project, predicting pro League of Legends match outcomes.
-- **GCP Cloud Digital Leader Certifcate**: Exam Done: Results Soon!
+- **PingPong**: API Request Client (like postman) built in rust
+- **GoNix**: Nix project initialiser built in golang
 ---
 
 ### 🌱 Learning & Exploring  
