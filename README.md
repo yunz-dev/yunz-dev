@@ -3,21 +3,23 @@
 🎓 *Computer Science Student*  
 💻 Passionate about building scalable backends, machine learning models, and cloud-based applications.  
 
+
 ---
 
-### 🚀 What I'm Working On  
-- **LiMao**: A golang powered data driven application to supplement in language learning
-- **PriceByte**: A grocery store aggregator powered by spring
-- **League Predictions**: Python machine learning project, predicting pro League of Legends match outcomes.
-- **PingPong**: API Request Client (like postman) built in rust
-- **GoNix**: Nix project initialiser built in golang
----
+### 🚀 Current Projects  
+- **PriceByte**: Scalable grocery price comparison platform built with Java Spring Boot, PostgreSQL, and ChromaDB vector database for intelligent product matching
+- **LiMao**: Data driven language learning application powered by Go, focussing on personalised learning algorithms
+- **PingPong**: High performance API testing client built in Rust, designed as a lightweight Postman alternative
+- **GoNix**: Initialisation tool for Nix development environments
+- **Open Source**: Active maintainer in NixOS/nixpkgs, contributing to one of the world's largest software repositories
 
+---
 ### 🌱 Learning & Exploring  
-- Programming languages: Golang, Rust, Java/Kotlin, and one day Elixir
-- Backend frameworks: **Spring**, **FastAPI**  
-- Cloud certifications: AWS, Azure, and GCP  
-- Databases, operating systems, and distributed systems  
+- **Backend Engineering**: Microservices architecture, distributed systems design, and performance optimisation
+- **Programming Languages**: Python, Rust, JVM, (tiny bit of Go) and one day ~~Elixir~~ Gleam ⭐
+- **Infrastructure & Cloud**: AWS/Azure/GCP certifications, containerisation, and CI/CD pipelines
+- **Database Technologies**: Vector databases, distributed data systems, and caching strategies
+- **Real-time Systems**: Streaming data processing and telemetry systems
 
 ---
 
