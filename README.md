@@ -1,45 +1,47 @@
-# 👋 Hi there, I'm Yunus!  
+# 👋 Hi there, I'm Yunus!
 
-🎓 *Computer Science Student*  
-💻 Passionate about building scalable backends, machine learning models, and cloud-based applications.  
+🎓 *Computer Science Student*
+💻 **Systems & Backend Engineering** | Distributed Systems | Open Source
 
-
----
-
-### 🚀 Current Projects  
-- **PriceByte**: Scalable grocery price comparison platform built with Java Spring Boot, PostgreSQL, and ChromaDB vector database for intelligent product matching
-- **LiMao**: Data driven language learning application powered by Go, focussing on personalised learning algorithms
-- **PingPong**: High performance API testing client built in Rust, designed as a lightweight Postman alternative
-- **GoNix**: Initialisation tool for Nix development environments
-- **Open Source**: Active maintainer in NixOS/nixpkgs, contributing to one of the world's largest software repositories
-
----
-### 🌱 Learning & Exploring  
-- **Backend Engineering**: Microservices architecture, distributed systems design, and performance optimisation
-- **Programming Languages**: Python, Rust, JVM, (tiny bit of Go) and one day ~~Elixir~~ Gleam ⭐
-- **Infrastructure & Cloud**: AWS/Azure/GCP certifications, containerisation, and CI/CD pipelines
-- **Database Technologies**: Vector databases, distributed data systems, and caching strategies
-- **Real-time Systems**: Streaming data processing and telemetry systems
+I specialise in building high-performance infrastructure, real-time telemetry systems, and scalable backend services. I love diving deep into low-level concurrency (Rust/Go) just as much as architecting microservices (Java/Python).
 
 ---
 
-### 📫 Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/YunzWasTaken/)  
-- 🌐 [Portfolio](https://yunz.dev) (work in progress)
+### 🚀 Currently Working on
+
+- **Redis but Brown** 
+  - *Systems Engineering* | Rust, Tokio, TCP
+  - Building a multi-threaded, Redis-compatible in-memory key-value store from scratch.
+  - Implementing the **RESP protocol** and utilising `Arc<RwLock>` for safe concurrent state management.
+
+- **PriceByte** *(In Progress)*
+  - *Backend Engineering* | Java Spring Boot, Python, PostgreSQL, Docker
+  - Scalable grocery aggregator with a hybrid scraping/API pipeline handling **50k+ product entries**.
+  - Features strict ACID compliance and Redis caching to reduce API latency by **40%**.
+
+---
+
+### 🛠️ Technical Arsenal
+
+- **Languages:** Java, Python, Rust, Go, TypeScript, C/C++
+- **Backend:** Spring Boot, FastAPI, Node.js, gRPC, WebSocket
+- **Systems & Cloud:** Docker, Redis, Kafka, Linux (NixOS), AWS
+- **Tooling:** Git, CI/CD (GitHub Actions), Terraform
+
+---
+
+### 🌱 Currently Exploring
+- **High-Performance Networking:** Building raw TCP servers and implementing custom protocols.
+- **Async Runtimes:** Deep diving into Tokio (Rust) and Goroutines (Go).
+- **Distributed Consensus:** Understanding Raft and Paxos implementations.
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YunzWasTaken/)
 - 📝 [Blog](https://yunz-dev.medium.com)
+- 🌐 [Portfolio](https://yunz.dev)
 
-I use ❄️ [Nix](https://github.com/yunz-dev/nix-darwin) ❄️ BTW <br><br>
+I use ❄️ [Nix](https://github.com/yunz-dev/dotfiles) ❄️ BTW
+
 ![](https://komarev.com/ghpvc/?username=yunz-dev&style=for-the-badge)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**yunz-dev/yunz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
