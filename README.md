@@ -3,8 +3,13 @@
 🎓 *Computer Science Student*
 💻 **Systems & Backend Engineering** | Distributed Systems | Open Source
 
-I specialise in building high-performance infrastructure, real-time telemetry systems, and scalable backend services. I love diving deep into low-level concurrency (Rust/Go) just as much as architecting microservices (Java/Python).
+I specialise in building high-performance infrastructure, real-time telemetry systems, and scalable backend services. I love diving deep into low-level concurrency (Rust/Go) just as much as architecting microservices (Java/Python). <br>
 
+Recently started Competitive Programming:
+- [LC yunz-dev](https://leetcode.com/u/yunz-dev/)
+- [CF: yunz-dev](https://codeforces.com/profile/yunz-dev)
+- [AC: yunzwastaken](https://atcoder.jp/users/yunzwastaken)
+- [CSES: 399159](https://cses.fi/user/399159) 
 ---
 
 ### 🚀 Currently Working on
