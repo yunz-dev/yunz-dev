@@ -9,6 +9,7 @@ Recently started Competitive Programming:
 - [LC yunz-dev](https://leetcode.com/u/yunz-dev/)
 - [CF: yunz-dev](https://codeforces.com/profile/yunz-dev)
 - [AC: yunzwastaken](https://atcoder.jp/users/yunzwastaken)
+- [CC: yunz_dev](https://www.codechef.com/users/yunz_dev)
 - [CSES: 399159](https://cses.fi/user/399159) 
 ---
 
