@@ -1,57 +1,31 @@
-# Hi, I'm Yunus 👋
 
-🎓 Computer Science student  
-💻 **Backend & Systems Engineering** | Distributed Systems | Open Source
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=yunz-dev&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=yunz-dev&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunz-dev&count_private=true&&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" />
+  </picture>
 
-I build **reliable, high-performance backend systems** with a focus on concurrency, networking, and data consistency.  
-My experience spans **low-level systems work** (Rust/Go, async runtimes, TCP) and **production backend services** (Java/Python, distributed APIs, caching).
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yunz-dev&hide=javascript%2Chtml%2Ccss%2Cshaderlab%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap%2COhrogon%2CTestGL%2CPhysicsEngine%2CAsteroids%2CCPP_Conway&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yunz-dev&hide=javascript%2Chtml%2Ccss%2Cshaderlab%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap%2COhrogon%2CTestGL%2CPhysicsEngine%2CAsteroids%2CCPP_Conway&langs_count=10&layout=compact&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunz-dev&hide=javascript%2Chtml%2Ccss%2Cshaderlab%2Cobjective-c&exclude_repo=srb2kart%2CaieBootstrap%2COhrogon%2CTestGL%2CPhysicsEngine%2CAsteroids%2CCPP_Conway&langs_count=10&layout=compact&hide_border=true&bg_color=00000000" />
+  </picture>
 
----
-
-## 🚀 Current Work
-
-### Redis but Brown
-**Systems Engineering** | Rust, Tokio, TCP  
-- Building a multi-threaded, Redis-compatible in-memory key-value store from scratch.
-- Implementing the **RESP protocol** over raw TCP.
-- Designing concurrent state management using `Arc<RwLock>` with a focus on correctness and throughput.
-
-### PriceByte (In Progress)
-**Backend Engineering** | Java Spring Boot, Python, PostgreSQL, Docker  
-- Scalable grocery aggregation backend combining automated ingestion and external APIs.
-- Handles **50k+ product records** with strict **ACID guarantees**.
-- Uses **Redis caching** to reduce API latency by ~**40%** under load.
-
----
-
-## 🧠 Systems & Backend Focus
-
-- **Concurrency & Async:** Rust (Tokio), Go (goroutines)
-- **Networking:** TCP servers, custom protocols, WebSockets
-- **Distributed Systems:** caching, data consistency, fault tolerance
-- **Datastores:** PostgreSQL, Redis
-
----
-
-## 🛠️ Technical Stack
-
-- **Languages:** Java, Python, Rust, Go, C/C++, TypeScript
-- **Backend:** Spring Boot, FastAPI, Node.js, gRPC, WebSocket
-- **Infra & Systems:** Docker, Redis, Kafka, Linux (NixOS), AWS
-- **Tooling:** Git, CI/CD (GitHub Actions), Terraform
-
----
-
-## 📈 Problem Solving & Competitive Programming
-
-Recently started competitive programming to strengthen algorithmic fundamentals and speed:
-- [LeetCode](https://leetcode.com/u/yunz-dev/)
-- [Codeforces](https://codeforces.com/profile/yunz-dev)
-- [AtCoder](https://atcoder.jp/users/yunzwastaken)
-- [CSES](https://cses.fi/user/399159)
-
----
-
+  <img src="https://streak-stats.demolab.com?user=yunz-dev&theme=dark&hide_border=true&background=00000000" />
+</p>
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YunzWasTaken/)
